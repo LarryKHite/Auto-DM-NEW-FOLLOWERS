@@ -5,4 +5,4 @@ com você no twitter'''.format(name)
 
 scheduler_time = 1 #in minutes
 
-tw_username = "Jeckzinho" #change this to yours
+tw_username = "voiceferret" #change this to yours
